@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1557270227 source:c:\users\pipoca\desktop\tp_laboratorio_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1557272317 source:c:\users\pipoca\desktop\tp_laboratorio_2\arrayemployees.c
+	<stdio.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1557272317 c:\users\pipoca\desktop\tp_laboratorio_2\arrayemployees.h
+
