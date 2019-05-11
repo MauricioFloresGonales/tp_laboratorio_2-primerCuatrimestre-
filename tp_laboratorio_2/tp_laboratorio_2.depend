@@ -11,3 +11,15 @@
 
 1557272317 c:\users\pipoca\desktop\tp_laboratorio_2\arrayemployees.h
 
+1557526710 source:c:\users\pipoca\desktop\tp_laboratorio_2\tp_laboratorio_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1557530095 c:\users\pipoca\desktop\tp_laboratorio_2\tp_laboratorio_2\arrayemployees.h
+
+1557530107 source:c:\users\pipoca\desktop\tp_laboratorio_2\tp_laboratorio_2\arrayemployees.c
+	<stdio.h>
+	<string.h>
+	"ArrayEmployees.h"
+

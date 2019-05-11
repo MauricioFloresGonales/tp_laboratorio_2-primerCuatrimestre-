@@ -1,13 +1,16 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "ArrayEmployees.h"
-#define T 4
+#define T 6
+#define S 4
 
 int main()
 {
     eEmployee empleado[T];
+    eSector sectores[S]
 
-    iniciarEstados(empleado,T);
+    initEmployees(empleado,T);
+
 
     int opcion;
     char seguir='s';
@@ -20,10 +23,10 @@ int main()
         switch(opcion)
         {
         case 1:
-            cargarEmpleados(empleado,T);
+
             break;
         case 2:
-            //modificar(empleado,T,modificable);
+
             break;
         case 3:
 
@@ -47,5 +50,23 @@ int main()
     while(seguir=='s');
 
 
+
+
+
+
+
+
     return 0;
 }
+
+/*
+
+int mostrar;
+    int i;
+    for(i=0;i<T;i++)
+    {
+       mostrar = initEmployees(empleado,T);
+       printf("%d",mostrar);
+
+    }
+*/
